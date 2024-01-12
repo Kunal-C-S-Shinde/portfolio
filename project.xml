@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<projects>
+  <entry>
+    <title>Amazon-clone</title>
+    <description>
+Display a list of products with their images, titles, prices, and ratings.
+Allow users to browse and search for products. 
+Show detailed information about a specific product, including description, reviews. 
+Enable users to add products to a shopping cart, view the cart contents, adjust quantities, and remove items. 
+Calculate and display the total price of the items in the cart. Implement a search feature that allows users to search for products by keywords.
+Ensure that the application is responsive and works well on different devices and screen sizes, including desktops, tablets
+Tech Stack Used: React, Tailwind CSS, Redux, Axios, Swiper.
+Contribution:  Contribute to the development of new features for the Amazon clone. This can include implementing
+     functionalities like product search, adding items to the cart, managing the cart.
+</description>
+  </entry>
+  <entry>
+    <title>Fitness App</title>
+    <description>
+User can choose exercise categories and speciﬁc muscle Group.
+User can browse more than one thousand exercises with practical examples.
+With the functionality to choose exercises with practical examples, pagination, exercises details, pull related videos from youtube, display similar exercise and much more.
+Tech Stack Used: React, Material UI.
+Contribution: This is React project where user can search the content related to Fitness/Exercises. 
+</description>
+  </entry>
+  <entry>
+    <title>IOT based Automatic Colour Sorting Machine. | Final Year Project</title>
+    <description>
+Colour sorting machine is made of RPI, camera module, RPI monitor, Servo motor, Detector disk and ﬂapper.
+Colour sorting machine sort the object accordingly to the colour and shape and put in the respective container and update  data on web app.
+Web app is used to connect, reset, count data like sorting and counting of objects.
+Fetch live data in app using Mqtt(Mosquitto telemetry transport).
+Manual date and time update so it will gives notiﬁcations 2-3 prior before a month.
+Designed UI is Mobile responsive. 
+Whenever app starts freshly it will always back the last updated data on the cloud.
+</description>
+  </entry>
+  
+</projects>
